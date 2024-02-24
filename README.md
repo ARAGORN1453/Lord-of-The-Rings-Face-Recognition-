@@ -77,8 +77,12 @@ This project demonstrates real-time face recognition in a video while identifyin
 I hope this comprehensive response helps you create a well-structured and informative README for your GitHub project!
 
 ![,output 4](https://github.com/ARAGORN1453/Lord-of-The-Rings-Face-Recognition-/assets/119515258/64b79fd7-84a0-4d05-b9a7-368fd956b2cf)
+
 ![output 3](https://github.com/ARAGORN1453/Lord-of-The-Rings-Face-Recognition-/assets/119515258/e73e1494-3792-44ee-80a6-e2dbc5c2e551)
-![output 3](https://github.com/ARAGORN1453/Lord-of-The-Rings-Face-Recognition-/assets/119515258/6579abd3-bfdb-4e22-850e-a402ab2296a6)
+
+![Output2](https://github.com/ARAGORN1453/Lord-of-The-Rings-Face-Recognition-/assets/119515258/8ab387c0-9fcf-4274-a4a4-56c1ef3e9f63)
+
+
 
 
 
